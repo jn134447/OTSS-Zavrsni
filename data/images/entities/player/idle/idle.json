@@ -1,0 +1,58 @@
+{ "frames": {
+   "idle 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 9, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 9, "h": 18 },
+    "sourceSize": { "w": 9, "h": 18 },
+    "duration": 240
+   },
+   "idle 1.aseprite": {
+    "frame": { "x": 9, "y": 0, "w": 9, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 9, "h": 18 },
+    "sourceSize": { "w": 9, "h": 18 },
+    "duration": 240
+   },
+   "idle 2.aseprite": {
+    "frame": { "x": 18, "y": 0, "w": 9, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 9, "h": 18 },
+    "sourceSize": { "w": 9, "h": 18 },
+    "duration": 240
+   },
+   "idle 3.aseprite": {
+    "frame": { "x": 27, "y": 0, "w": 9, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 9, "h": 18 },
+    "sourceSize": { "w": 9, "h": 18 },
+    "duration": 240
+   },
+   "idle 4.aseprite": {
+    "frame": { "x": 36, "y": 0, "w": 9, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 9, "h": 18 },
+    "sourceSize": { "w": 9, "h": 18 },
+    "duration": 240
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "C:\\Users\\Vanesa\\Desktop\\Pygame final project\\learning py\\Prince Sprites\\idle.png",
+  "format": "RGBA8888",
+  "size": { "w": 45, "h": 18 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

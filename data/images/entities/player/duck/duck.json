@@ -1,0 +1,26 @@
+{ "frames": {
+   "duck 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 15, "h": 12 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 15, "h": 12 },
+    "sourceSize": { "w": 15, "h": 12 },
+    "duration": 250
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "C:\\Users\\Vanesa\\Desktop\\Pygame final project\\Final Demo\\data\\images\\entities\\player\\duck.png",
+  "format": "RGBA8888",
+  "size": { "w": 15, "h": 12 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

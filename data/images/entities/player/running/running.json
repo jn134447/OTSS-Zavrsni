@@ -1,0 +1,58 @@
+{ "frames": {
+   "running 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 11, "h": 16 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 11, "h": 16 },
+    "sourceSize": { "w": 11, "h": 16 },
+    "duration": 30
+   },
+   "running 1.aseprite": {
+    "frame": { "x": 11, "y": 0, "w": 11, "h": 16 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 11, "h": 16 },
+    "sourceSize": { "w": 11, "h": 16 },
+    "duration": 30
+   },
+   "running 2.aseprite": {
+    "frame": { "x": 22, "y": 0, "w": 11, "h": 16 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 11, "h": 16 },
+    "sourceSize": { "w": 11, "h": 16 },
+    "duration": 30
+   },
+   "running 3.aseprite": {
+    "frame": { "x": 33, "y": 0, "w": 11, "h": 16 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 11, "h": 16 },
+    "sourceSize": { "w": 11, "h": 16 },
+    "duration": 30
+   },
+   "running 4.aseprite": {
+    "frame": { "x": 44, "y": 0, "w": 11, "h": 16 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 11, "h": 16 },
+    "sourceSize": { "w": 11, "h": 16 },
+    "duration": 30
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "C:\\Users\\Vanesa\\Desktop\\Pygame final project\\learning py\\Prince Sprites\\running.png",
+  "format": "RGBA8888",
+  "size": { "w": 55, "h": 16 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

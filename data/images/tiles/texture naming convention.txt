@@ -1,0 +1,11 @@
+Black Border on most tiles in my game:
+
+00 - none
+01 - top right dot
+02 - top
+03 - top right
+04 - top left right
+05 - all
+
+06 - top (connector detail)
+

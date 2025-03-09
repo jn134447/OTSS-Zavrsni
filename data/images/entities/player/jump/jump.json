@@ -1,0 +1,26 @@
+{ "frames": {
+   "jump 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 9, "h": 15 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 9, "h": 15 },
+    "sourceSize": { "w": 9, "h": 15 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "C:\\Users\\Vanesa\\Desktop\\Pygame final project\\Final Demo\\data\\images\\entities\\player\\jump.png",
+  "format": "RGBA8888",
+  "size": { "w": 9, "h": 15 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
